@@ -3,7 +3,7 @@
 ## Overview
 An Embedded system powered by a Raspberry Pi 4, consisting of a small display, speaker, and camera. The camera scans the user’s face for a dominant emotion - which then selects music pertaining tp that emotion. Relevant information is then displayed: type of music, user mood, volume. The system contains dynamic screen lighting which changes the colour of the screen based on the user's emotion and shade of colour based on their audio level. 
 
-![IMG_4093 (1)](https://github.com/a3shoaib/SmartSpeakerSystem/assets/112360617/777c2582-efcb-4de4-9a00-1de3e2d72518)
+![IMG_4093 (1) (1)](https://github.com/a3shoaib/SmartSpeakerSystem/assets/112360617/a098ebf3-d815-4401-ab1c-4c7001e0a538)
 
 
 ## Architecture/Technical Details
